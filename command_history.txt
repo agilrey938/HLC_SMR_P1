@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ayman come jamon
+=======
+Lo que sea
+>>>>>>> 309e9a74f12399a49a36ab3f7313c5454a504f2f
